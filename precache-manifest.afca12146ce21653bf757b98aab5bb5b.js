@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "26b76e1984403e3b92cc",
+    "revision": "c89853908f2e54ec2957",
     "url": "/TextCounter/static/css/main.84a9b2a8.chunk.css"
   },
   {
-    "revision": "26b76e1984403e3b92cc",
-    "url": "/TextCounter/static/js/main.26b76e19.chunk.js"
+    "revision": "c89853908f2e54ec2957",
+    "url": "/TextCounter/static/js/main.c8985390.chunk.js"
   },
   {
     "revision": "97af9aaba510c3e4c76e",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/TextCounter/static/js/runtime~main.73477e0a.js"
   },
   {
-    "revision": "3b88fd74bdaa73164f6488e528b0503b",
+    "revision": "4f2f9a47ccae5f2d69242c47f5eb1ab0",
     "url": "/TextCounter/index.html"
   }
 ];
