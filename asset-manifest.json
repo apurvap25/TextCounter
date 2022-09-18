@@ -1,7 +1,7 @@
 {
   "main.css": "/TextCounter/static/css/main.84a9b2a8.chunk.css",
-  "main.js": "/TextCounter/static/js/main.c8985390.chunk.js",
-  "main.js.map": "/TextCounter/static/js/main.c8985390.chunk.js.map",
+  "main.js": "/TextCounter/static/js/main.e218973e.chunk.js",
+  "main.js.map": "/TextCounter/static/js/main.e218973e.chunk.js.map",
   "static/js/1.97af9aab.chunk.js": "/TextCounter/static/js/1.97af9aab.chunk.js",
   "static/js/1.97af9aab.chunk.js.map": "/TextCounter/static/js/1.97af9aab.chunk.js.map",
   "static/js/2.fc6bf2a4.chunk.js": "/TextCounter/static/js/2.fc6bf2a4.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/TextCounter/static/js/runtime~main.73477e0a.js.map",
   "static/css/main.84a9b2a8.chunk.css.map": "/TextCounter/static/css/main.84a9b2a8.chunk.css.map",
   "index.html": "/TextCounter/index.html",
-  "precache-manifest.afca12146ce21653bf757b98aab5bb5b.js": "/TextCounter/precache-manifest.afca12146ce21653bf757b98aab5bb5b.js",
+  "precache-manifest.a1bc07188743138bb3bda25d3323fd26.js": "/TextCounter/precache-manifest.a1bc07188743138bb3bda25d3323fd26.js",
   "service-worker.js": "/TextCounter/service-worker.js"
 }
